@@ -5,6 +5,7 @@ You are given an integer array nums. Your task is to determine if there exists a
 
 **Example**
 INPUT nums = [1, 2, 3, 4, 5]
+
 OUTPUT true
 
 
